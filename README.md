@@ -2,7 +2,7 @@
 
 This MATLAB code allows you to run a windowed RQA analysis with a fixed recurrence rate using the RQA toolbox[1].
 It calculates the optimal time delay using a mutual information test for each window, by default the embedding dimension is set to 5 but will need to be changed based on the data being used. 
-Data should be set up as a simple 1x: double 
+Data should be set up as a simple 1x : double 
 
 run command:
 
